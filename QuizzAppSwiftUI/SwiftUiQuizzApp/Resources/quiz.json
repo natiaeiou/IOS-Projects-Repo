@@ -1,0 +1,184 @@
+{
+  "quiz": [
+    {
+      "id": 1,
+      "question": "Who wrote 'Harry Potter'?",
+      "options": ["Stephen King", "J.K. Rowling", "Neil Gaiman", "C.S. Lewis"],
+      "correct_answer": "J.K. Rowling"
+    },
+    {
+      "id": 2,
+      "question": "Which novel begins with the line 'Call me Ishmael'?",
+      "options": ["The Great Gatsby", "1984", "Moby-Dick", "Dracula"],
+      "correct_answer": "Moby-Dick"
+    },
+    {
+      "id": 3,
+      "question": "Who is the author of '1984'?",
+      "options": ["Aldous Huxley", "Ray Bradbury", "George Orwell", "Ernest Hemingway"],
+      "correct_answer": "George Orwell"
+    },
+    {
+      "id": 4,
+      "question": "In which book would you find the character Atticus Finch?",
+      "options": ["Little Women", "The Catcher in the Rye", "To Kill a Mockingbird", "Pride and Prejudice"],
+      "correct_answer": "To Kill a Mockingbird"
+    },
+    {
+      "id": 5,
+      "question": "Who wrote 'Pride and Prejudice'?",
+      "options": ["Charlotte Brontë", "Jane Austen", "Mary Shelley", "Emily Dickinson"],
+      "correct_answer": "Jane Austen"
+    },
+    {
+      "id": 6,
+      "question": "Which book series features the character Katniss Everdeen?",
+      "options": ["Divergent", "Twilight", "The Hunger Games", "Maze Runner"],
+      "correct_answer": "The Hunger Games"
+    },
+    {
+      "id": 7,
+      "question": "Who wrote 'The Hobbit'?",
+      "options": ["George R.R. Martin", "J.R.R. Tolkien", "C.S. Lewis", "Rick Riordan"],
+      "correct_answer": "J.R.R. Tolkien"
+    },
+    {
+      "id": 8,
+      "question": "Which Shakespeare play features the characters Romeo and Juliet?",
+      "options": ["Macbeth", "Hamlet", "Romeo and Juliet", "Othello"],
+      "correct_answer": "Romeo and Juliet"
+    },
+    {
+      "id": 9,
+      "question": "Who wrote 'The Great Gatsby'?",
+      "options": ["Mark Twain", "John Steinbeck", "F. Scott Fitzgerald", "Tennessee Williams"],
+      "correct_answer": "F. Scott Fitzgerald"
+    },
+    {
+      "id": 10,
+      "question": "What is the name of the fictional wizarding school in Harry Potter?",
+      "options": ["Ravenwood", "Hogwarts", "Eldoria", "Nightshade Academy"],
+      "correct_answer": "Hogwarts"
+    },
+    {
+      "id": 11,
+      "question": "Who wrote 'The Catcher in the Rye'?",
+      "options": ["F. Scott Fitzgerald", "J.D. Salinger", "Jack Kerouac", "Harper Lee"],
+      "correct_answer": "J.D. Salinger"
+    },
+    {
+      "id": 12,
+      "question": "Which book features the characters Frodo and Sam?",
+      "options": ["Eragon", "The Chronicles of Narnia", "The Lord of the Rings", "The Witcher"],
+      "correct_answer": "The Lord of the Rings"
+    },
+    {
+      "id": 13,
+      "question": "Who is the author of 'The Alchemist'?",
+      "options": ["Gabriel García Márquez", "Khaled Hosseini", "Paulo Coelho", "Haruki Murakami"],
+      "correct_answer": "Paulo Coelho"
+    },
+    {
+      "id": 14,
+      "question": "Which novel features the dystopian slogan 'Big Brother is watching you'?",
+      "options": ["Brave New World", "Fahrenheit 451", "1984", "The Handmaid's Tale"],
+      "correct_answer": "1984"
+    },
+    {
+      "id": 15,
+      "question": "Who wrote 'The Chronicles of Narnia'?",
+      "options": ["Philip Pullman", "J.R.R. Tolkien", "C.S. Lewis", "Roald Dahl"],
+      "correct_answer": "C.S. Lewis"
+    },
+    {
+      "id": 16,
+      "question": "In which book would you find the character Sherlock Holmes?",
+      "options": ["The Da Vinci Code", "A Study in Scarlet", "Dracula", "The Name of the Rose"],
+      "correct_answer": "A Study in Scarlet"
+    },
+    {
+      "id": 17,
+      "question": "Which book features a young girl named Alice who falls into a strange world?",
+      "options": ["Matilda", "Alice's Adventures in Wonderland", "Coraline", "The Wizard of Oz"],
+      "correct_answer": "Alice's Adventures in Wonderland"
+    },
+    {
+      "id": 18,
+      "question": "Who wrote 'The Fault in Our Stars'?",
+      "options": ["Veronica Roth", "Stephenie Meyer", "John Green", "Suzanne Collins"],
+      "correct_answer": "John Green"
+    },
+    {
+      "id": 19,
+      "question": "Which book is known for the quote 'Stay gold, Ponyboy'?",
+      "options": ["The Catcher in the Rye", "The Outsiders", "The Book Thief", "Wonder"],
+      "correct_answer": "The Outsiders"
+    },
+    {
+      "id": 20,
+      "question": "Who wrote 'Frankenstein'?",
+      "options": ["Bram Stoker", "Mary Shelley", "H.G. Wells", "Oscar Wilde"],
+      "correct_answer": "Mary Shelley"
+    },
+    {
+      "id": 21,
+      "question": "Which book features a dystopian society where books are banned?",
+      "options": ["1984", "The Giver", "Fahrenheit 451", "Brave New World"],
+      "correct_answer": "Fahrenheit 451"
+    },
+    {
+      "id": 22,
+      "question": "Who is the author of 'The Da Vinci Code'?",
+      "options": ["Dan Brown", "Michael Crichton", "John Grisham", "James Patterson"],
+      "correct_answer": "Dan Brown"
+    },
+    {
+      "id": 23,
+      "question": "Which novel features a character named Holden Caulfield?",
+      "options": ["On the Road", "The Catcher in the Rye", "The Bell Jar", "Fight Club"],
+      "correct_answer": "The Catcher in the Rye"
+    },
+    {
+      "id": 24,
+      "question": "Who wrote 'Brave New World'?",
+      "options": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "Kurt Vonnegut"],
+      "correct_answer": "Aldous Huxley"
+    },
+    {
+      "id": 25,
+      "question": "Which series features a boy wizard named Harry who attends a magical school?",
+      "options": ["Percy Jackson", "Harry Potter", "The Mortal Instruments", "Artemis Fowl"],
+      "correct_answer": "Harry Potter"
+    },
+    {
+      "id": 26,
+      "question": "Who is the author of 'The Kite Runner'?",
+      "options": ["Paulo Coelho", "Khaled Hosseini", "Yann Martel", "Arundhati Roy"],
+      "correct_answer": "Khaled Hosseini"
+    },
+    {
+      "id": 27,
+      "question": "Which book tells the story of a man stranded on Mars?",
+      "options": ["Ender's Game", "The Martian", "Dune", "Foundation"],
+      "correct_answer": "The Martian"
+    },
+    {
+      "id": 28,
+      "question": "Who wrote 'The Handmaid's Tale'?",
+      "options": ["Margaret Atwood", "Ursula K. Le Guin", "Octavia Butler", "Doris Lessing"],
+      "correct_answer": "Margaret Atwood"
+    },
+    {
+      "id": 29,
+      "question": "Which novel features a character named Jay Gatsby?",
+      "options": ["The Sun Also Rises", "The Great Gatsby", "Tender Is the Night", "This Side of Paradise"],
+      "correct_answer": "The Great Gatsby"
+    },
+    {
+      "id": 30,
+      "question": "Who is the author of 'Life of Pi'?",
+      "options": ["Yann Martel", "Salman Rushdie", "Vikram Seth", "Rohinton Mistry"],
+      "correct_answer": "Yann Martel"
+    }
+  ]
+}
